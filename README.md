@@ -7,20 +7,20 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/CarlJlin/github-readme-quotes-torvald/issues">
-    <img src="https://img.shields.io/github/issues/CarlJlin/github-readme-quotes-torvald?style=flat-square">
+  <a href="https://github.com/CarlJlin/github-readme-quotes-torvalds/issues">
+    <img src="https://img.shields.io/github/issues/CarlJlin/github-readme-quotes-torvalds?style=flat-square">
   </a>
 
-  <a href="https://github.com/CarlJlin/github-readme-quotes-torvald/pulls">
-    <img src="https://img.shields.io/github/issues-pr/CarlJlin/github-readme-quotes-torvald?style=flat-square">
+  <a href="https://github.com/CarlJlin/github-readme-quotes-torvalds/pulls">
+    <img src="https://img.shields.io/github/issues-pr/CarlJlin/github-readme-quotes-torvalds?style=flat-square">
   </a>
 </p>
 
 <!-- Links -->
 <p align="center">
-  <a href="https://github-readme-quotes-torvald.vercel.app/api?type=horizontal&theme=tokyonight" target="_blank">View Demo</a>
+  <a href="https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight" target="_blank">View Demo</a>
   <span> · </span>
-  <a href="https://github.com/CarlJlin/github-readme-quotes-torvald/issues" target="_blank">Report Bug</a>
+  <a href="https://github.com/CarlJlin/github-readme-quotes-torvalds/issues" target="_blank">Report Bug</a>
 </p>
 
 ---
@@ -29,14 +29,14 @@ A fork of [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/gi
 
 ## Preview
 
-[![Readme Quotes](https://github-readme-quotes-torvald.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/CarlJlin/github-readme-quotes-torvald)
+[![Readme Quotes](https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/CarlJlin/github-readme-quotes-torvalds)
 
 ## Usage
 
 Copy the markdown below and paste it in your GitHub README.
 
 ```md
-[![Readme Quotes](https://github-readme-quotes-torvald.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/CarlJlin/github-readme-quotes-torvald)
+[![Readme Quotes](https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/CarlJlin/github-readme-quotes-torvalds)
 ```
 
 ### Options
@@ -89,34 +89,34 @@ Copy the markdown below and paste it in your GitHub README.
 ### Horizontal + TokyoNight
 
 ```md
-[![Readme Quotes](https://github-readme-quotes-torvald.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/CarlJlin/github-readme-quotes-torvald)
+[![Readme Quotes](https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/CarlJlin/github-readme-quotes-torvalds)
 ```
 
-[![Readme Quotes](https://github-readme-quotes-torvald.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/CarlJlin/github-readme-quotes-torvald)
+[![Readme Quotes](https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/CarlJlin/github-readme-quotes-torvalds)
 
 ### Dark
 
 ```md
-[![Readme Quotes](https://github-readme-quotes-torvald.vercel.app/api?type=horizontal&theme=dark)](https://github.com/CarlJlin/github-readme-quotes-torvald)
+[![Readme Quotes](https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=dark)](https://github.com/CarlJlin/github-readme-quotes-torvalds)
 ```
 
-[![Readme Quotes](https://github-readme-quotes-torvald.vercel.app/api?type=horizontal&theme=dark)](https://github.com/CarlJlin/github-readme-quotes-torvald)
+[![Readme Quotes](https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=dark)](https://github.com/CarlJlin/github-readme-quotes-torvalds)
 
 ### Dracula
 
 ```md
-[![Readme Quotes](https://github-readme-quotes-torvald.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CarlJlin/github-readme-quotes-torvald)
+[![Readme Quotes](https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CarlJlin/github-readme-quotes-torvalds)
 ```
 
-[![Readme Quotes](https://github-readme-quotes-torvald.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CarlJlin/github-readme-quotes-torvald)
+[![Readme Quotes](https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CarlJlin/github-readme-quotes-torvalds)
 
 ### With Border
 
 ```md
-[![Readme Quotes](https://github-readme-quotes-torvald.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/CarlJlin/github-readme-quotes-torvald)
+[![Readme Quotes](https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/CarlJlin/github-readme-quotes-torvalds)
 ```
 
-[![Readme Quotes](https://github-readme-quotes-torvald.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/CarlJlin/github-readme-quotes-torvald)
+[![Readme Quotes](https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/CarlJlin/github-readme-quotes-torvalds)
 
 ## Credits
 
