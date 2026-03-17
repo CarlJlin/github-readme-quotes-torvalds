@@ -1,0 +1,186 @@
+[
+  {
+    "text": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Software is like sex: it's better when it's free.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Making Linux GPL'd was definitely the best thing I ever did.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Microsoft isn't evil, they just make really crappy operating systems.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Intelligence is the ability to avoid doing work, yet getting the work done.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "I'm an egotistical bastard, and I name all my projects after myself. First Linux, now git.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Given enough eyeballs, all bugs are shallow.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "\"Regression testing\"? What's that? If it compiles, it is good; if it boots up, it is perfect.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "My name is Linus Torvalds and I am your god.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "I'm always right. This time I'm just even more right than usual.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Any program is only as good as it is useful.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Once you start thinking more about where you want to be than about making the best product, you're screwed.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "XML is crap. Really. There are no excuses. XML is nasty to parse for humans, and it's a disaster to parse even for computers.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "I like offending people, because I think people who get offended should be offended.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Standards are paper. I use paper to wipe my butt every day. That's how much that paper is worth.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "I'd like to say that I knew this would happen, that it's all part of the plan for world domination.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "If Microsoft ever does applications for Linux it means I've won.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Portability is for people who cannot write new programs.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Every time I see some piece of medical research saying that caffeine is good for you, I high-five myself. Because I'm going to live forever.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "If you start doing things because you hate others and want to screw them over, the end result is bad.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Open Source allows people to build on a solid base of previous knowledge, without some silly hiding.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "I think that Open Source is the right thing to do the same way I believe science is better than alchemy.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Modern PCs are horrible. ACPI is a complete design disaster in every way.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "I tend to call myself an anti-visionary because to me, what is much more important than vision is execution.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "I don't ask for money. I don't ask for sexual favors. I just ask for the thing I gave you: source code that I can use myself.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "I like to think that I've been a good manager. That fact has been very instrumental in making Linux a successful product.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "In real open source, you have the right to control your own destiny.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "I'm a bastard. I have absolutely no clue why people can ever think otherwise. Yet they do.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Those that can, do. Those that can't, complain.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Avoiding complexity reduces bugs.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "Don't hurry your code. Make sure it works well and is well designed. Don't worry about timing.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "A computer is like air conditioning — it becomes useless when you open Windows.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "In many ways, git is designed to be the antithesis of CVS. If in doubt, make the exact opposite decision.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "An operating system should be something that is there, you shouldn't even notice it's there, except that it works.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "OK, I admit it. I was just a front-man for the real fathers of Linux, the Tooth Fairy and Santa Claus.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "In short: just say NO TO DRUGS, and maybe you won't end up like the Hurd people.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "The fame and reputation part came later, and never was much of a motivator.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "It's what I call \"mental masturbation\", when you engage in some pointless intellectual exercise that has no possible meaning.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "I allege that SCO is full of it.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "I'm not sentimental. Good riddance.",
+    "author": "Linus Torvalds"
+  }
+]
