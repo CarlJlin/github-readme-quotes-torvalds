@@ -1,4 +1,4 @@
-import axios from 'axios';
+import quotes from '../../data/quotes.json';
 
 interface ParseDataParams {
   text: string;
@@ -35,11 +35,7 @@ const randomQuote = (data: ParseDataParams[]): ParseDataParams => {
 };
 
 export async function fetchQuotes(): Promise<ParseDataReturn> {
-  const response = await axios.get(
-    'https://github.com/mudroljub/programming-quotes-api/raw/master/data/quotes.json'
-  );
-
-  const data: ParseDataParams[] = response.data;
+  const data: ParseDataParams[] = quotes;
 
   // Validate the fetched data.
   if (!Array.isArray(data)) {
