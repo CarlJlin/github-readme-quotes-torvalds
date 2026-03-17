@@ -58,7 +58,7 @@ const handler = async (req: VercelRequest, res: VercelResponse) => {
 
   // Send the quote image response.
   res.setHeader('Content-Type', 'image/svg+xml');
-  res.setHeader('Cache-Control', 'public, max-age=20');
+  res.setHeader('Cache-Control', 'public, max-age=1800');
   res.send(renderSVG(data, type, theme, border, customColors));
 };
 
